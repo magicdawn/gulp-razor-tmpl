@@ -1,0 +1,28 @@
+{
+  "name": "gulp-razor-tmpl",
+  "version": "0.0.1",
+  "description": "gulp pulgin for razor-tmpl .razor file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"see the test folder\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/magicdawn/gulp-razor-tmpl"
+  },
+  "keywords": [
+    "gulpplugin",
+    "razor-tmpl",
+    "razor"
+  ],
+  "author": "magicdawn",
+  "license": "MIT",
+  "dependencies": {
+    "gulp-util": "^3.0.1",
+    "razor-tmpl": "^1.0.3",
+    "through2": "^0.6.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.7"
+  }
+}
