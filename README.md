@@ -1,4 +1,6 @@
 #gulp-razor-tmpl
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/magicdawn/gulp-razor-tmpl.svg)](https://greenkeeper.io/)
 gulp plugin for [razor-tmpl](https://github.com/magicdawn/razor-tmpl)
 
 #Install
